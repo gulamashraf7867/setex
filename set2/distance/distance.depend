@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600507617 source:d:\cpp_thameem\distance\main.cpp
+	<iostream>
+	"distance.h"
+	<gtest/gtest.h>
+
+1600506926 source:d:\cpp_thameem\distance\distance.cc
+	"distance.h"
+	<iostream>
+
+1600506915 d:\cpp_thameem\distance\distance.h
+

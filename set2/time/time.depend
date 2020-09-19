@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600509866 source:d:\cpp_thameem\set2\time\time_test.cc
+	"time.h"
+	<gtest/gtest.h>
+
+1600510187 d:\cpp_thameem\set2\time\time.h
+	<string>
+
+1600510463 source:d:\cpp_thameem\set2\time\time.cc
+	<iostream>
+	"time.h"
+

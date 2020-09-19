@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600511158 source:d:\cpp_thameem\set2\fraction\frac.cc
+	<bits/stdc++.h>
+	"frac.h"
+
+1600514218 d:\cpp_thameem\set2\fraction\frac.h
+
+1600511695 source:d:\cpp_thameem\set2\fraction\main.cpp
+	"frac.h"
+	<gtest/gtest.h>
+	<iostream>
+
