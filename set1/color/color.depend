@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600404125 source:d:\cpp_thameem\color\main.cpp
+	<iostream>
+	"color.h"
+	"gtest/gtest.h"
+
+1600403721 source:d:\cpp_thameem\color\color.cc
+	<iostream>
+	"color.h"
+
+1600402994 d:\cpp_thameem\color\color.h
+

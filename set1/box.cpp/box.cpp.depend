@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600335934 source:d:\cpp_thameem\box.cpp\main.cpp
+	<iostream>
+	"box.h"
+	"gtest/gtest.h"
+
+1600331104 d:\cpp_thameem\box.cpp\box.h
+
+1600331466 source:d:\cpp_thameem\box.cpp\box.cpp
+	<iostream>
+	"box.h"
+

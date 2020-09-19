@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1600413646 source:d:\cpp_thameem\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"gtest/gtest.h"
+
+1600412206 d:\cpp_thameem\customer\customer.h
+	<iostream>
+
+1600412250 source:d:\cpp_thameem\customer\customer.cc
+	"customer.h"
+	<iostream>
+
+1600429423 source:d:\cpp_thameem\set1\customer\customer.cc
+	"customer.h"
+	<iostream>
+
+1600412206 d:\cpp_thameem\set1\customer\customer.h
+	<iostream>
+
+1600413646 source:d:\cpp_thameem\set1\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"gtest/gtest.h"
+

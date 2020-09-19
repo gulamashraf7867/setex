@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600417375 source:d:\cpp_thameem\ipaddress.cc
+	<string>
+	<iostream>
+	"ipaddress.h"
+
+1600416700 d:\cpp_thameem\ipaddress.h
+	<string>
+

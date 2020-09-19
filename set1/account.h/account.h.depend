@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600315074 source:d:\cpp_thameem\account.h\account_test.cc
+	"account.h"
+	<gtest/gtest.h>
+
+1600420782 d:\cpp_thameem\account.h\account.h
+	<string>
+
