@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1600833628 source:d:\cpp_thameem\set3\employee\employee.cpp
+	<iostream>
+	"employee.h"
+	"manager.h"
+	"trainee.h"
+	"engineer.h"
+
+1600833629 d:\cpp_thameem\set3\employee\employee.h
+	<string>
+
+1600833631 d:\cpp_thameem\set3\employee\manager.h
+	"employee.h"
+	<string>
+
+1600833631 d:\cpp_thameem\set3\employee\trainee.h
+	"employee.h"
+	<string>
+
+1600833630 d:\cpp_thameem\set3\employee\engineer.h
+	<string>
+	"employee.h"
+
+1600833630 source:d:\cpp_thameem\set3\employee\employee_test.cpp
+	"employee.h"
+	"manager.h"
+	"trainee.h"
+	"engineer.h"
+	<gtest/gtest.h>
+
