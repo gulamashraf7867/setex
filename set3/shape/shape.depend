@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1600640273 source:d:\cpp_thameem\set1\shape\main.cpp
+	<iostream>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"shape.h"
+	"circle.h"
+
+1600637609 d:\cpp_thameem\set1\shape\triangle.h
+	"polygon.h"
+
+1600638016 d:\cpp_thameem\set1\shape\polygon.h
+	"shape.h"
+
+1600637549 d:\cpp_thameem\set1\shape\shape.h
+
+1600640494 source:d:\cpp_thameem\set1\shape\shape_test.cpp
+	<gtest/gtest.h>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"circle.h"
+
+1600639483 d:\cpp_thameem\set1\shape\rectangle.h
+	"polygon.h"
+
+1600640253 d:\cpp_thameem\set1\shape\circle.h
+	"shape.h"
+
